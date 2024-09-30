@@ -11,12 +11,12 @@
 
 <p align="justify">I'm a full-stack software engineer passionate about open source, cybersecurity, and Linux systems with a strong focus on backend development. Always exploring new tech stacks and tools.</p>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlfredoRamos&mode=weekly&theme=transparent&hide_border=true" /></div>
+<div align="center"><a href="https://github.com/AlfredoRamos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlfredoRamos&mode=weekly&theme=transparent&hide_border=true" /></a></div>
 
 ## Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=AlfredoRamos&custom_title=GitHub+Stats&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true" height=250 align="center" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoRamos&layout=compact&langs_count=12&size_weight=0.5&count_weight=0.5&hide=javascript,html,css,scss&theme=transparent&hide_border=true" height=250 align="center" /> |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://github.com/AlfredoRamos"><img src="https://github-readme-stats.vercel.app/api?username=AlfredoRamos&custom_title=GitHub+Stats&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true" height=250 align="center" /></a> | <a href="https://github.com/AlfredoRamos"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoRamos&layout=compact&langs_count=12&size_weight=0.5&count_weight=0.5&hide=javascript,html,css,scss&theme=transparent&hide_border=true" height=250 align="center" /></a> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ## Projects
 
