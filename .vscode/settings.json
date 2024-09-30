@@ -1,0 +1,16 @@
+{
+	"editor.linkedEditing": true,
+	"editor.insertSpaces": false,
+	"prettier.singleQuote": true,
+	"editor.formatOnSave": true,
+	"html.autoClosingTags": true,
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[markdown]": {
+		"editor.defaultFormatter": "yzhang.markdown-all-in-one"
+	}
+}
