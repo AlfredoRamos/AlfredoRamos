@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alfredo Ramos.</h1>
+<h1 align="center">Hi there, I'm Alfredo Ramos</h1>
 <p align="center">
 	<a href="https://alfredoramos.mx">Website</a>
 	·
@@ -9,9 +9,9 @@
 	<a href="https://mastodon.social/@AlfredoRamos">Mastodon</a>
 </p>
 
-<p align="justify">I'm a full-stack software engineer passionate about open source, cybersecurity, and Linux systems with a strong focus on backend development. Always exploring new tech stacks and tools.</p>
+<p align="justify">I'm a full-stack software developer passionate about open source, cybersecurity, and Linux systems with a strong focus on backend development. Always exploring new tech stacks and tools.</p>
 
-<div align="center"><a href="https://github.com/AlfredoRamos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlfredoRamos&mode=weekly&theme=transparent&hide_border=true" /></a></div>
+<div align="center"><a href="https://github.com/AlfredoRamos"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=AlfredoRamos&mode=weekly&theme=transparent&hide_border=true" /></a></div>
 
 ## Stats
 
